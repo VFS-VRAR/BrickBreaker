@@ -1,4 +1,4 @@
 # BrickBreakerPhysics
 
 
-![alt text](https://github.com/PG22RafaelGazetti/BrickBreakerPhysics/blob/main/BrickBreaker.gif)
+![alt text](https://github.com/VFS-VRAR/BrickBreaker/blob/main/BrickBreaker.gif)
