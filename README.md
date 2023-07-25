@@ -35,6 +35,7 @@ Add images and descriptions of how the project evolved over time
 ## Journey
 Talk about your jorney during development. The problems/adversities that happened, and how did you manage to solve/adapt to it
 
+
 ## Case Study Video 
 > Example Video
 
