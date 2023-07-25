@@ -10,7 +10,7 @@ The game's objective is to eliminate all of the BRICKS at the top of the screen 
 ## Project Aim / Goal / Pillars
 Project Goal is create a homage to the classic Brick Breaker. We wanted to maintaim the most iconic elements, with some twists and different elements. With that we create a familier but still new experience for players.
 
-* Pillars **Add description to each pillar**
+* Pillars "*"Add description to each pillar"*"
   - Old but New
   - Simple controls, funny interactions 
   - Quick Reflexes
