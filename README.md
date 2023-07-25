@@ -1,7 +1,7 @@
 <h1 align="center">Brick Breaker Physics</h1>
 
 <p align="center">
-  <img alt="Preview" width="860" alt="preview" src="https://github.com/VFS-VRAR/BrickBreaker/blob/main/BrickBreaker.gif">
+  <img alt="Preview" width="660" alt="preview" src="https://github.com/VFS-VRAR/BrickBreaker/blob/main/BrickBreaker.gif">
 <p align="center">
 
 ## Summary
