@@ -26,7 +26,6 @@ Project Goal is create a homage to the classic Brick Breaker. We wanted to maint
           
 ## Controls
 * **A,D**: player control
-* **E**: use an Item
 * **P**: pause game
 
 ## Process 
