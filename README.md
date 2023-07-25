@@ -21,7 +21,7 @@ The project Goal is to create a homage to the classic Brick Breaker. We wanted t
     - [x] Special types: Bomb bricks, Power-up bricks
           
 * UI
-    - [x] Display the number remaining lives
+    - [x] Display the number of remaining lives
     - [x] Display current score
           
 ## Controls
