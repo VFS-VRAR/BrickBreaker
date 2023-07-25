@@ -1,6 +1,7 @@
 <h1 align="center">Brick Breaker Physics</h1>
 
 ![alt text](https://github.com/VFS-VRAR/BrickBreaker/blob/main/BrickBreaker.gif)
+<img align="right" width="100" height="100" src="https://github.com/VFS-VRAR/BrickBreaker/blob/main/BrickBreaker.gif">
 
 ## Summary
 The game's objective is to eliminate all of the BRICKS at the top of the screen by hitting them with the BALL. But, if the ball hits the bottom GAME OVER, the player loses and the game ends! Face new challenges as progress through the game, unlocking new levels, and new power-ups.
