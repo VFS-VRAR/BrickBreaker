@@ -10,6 +10,6 @@
 ## Journey
 ## Case Study Video
 ## Roadmap / Beyond
-## optionals:
-# Known Issues
-# Team / Roles
+# optionals:
+## Known Issues
+## Team / Roles
