@@ -8,7 +8,7 @@
 The game's objective is to eliminate all of the BRICKS at the top of the screen by hitting them with the BALL. But, if the ball hits the bottom GAME OVER, the player loses, and the game ends! Face new challenges as progress through the game, unlocking new levels, and new power-ups.
 
 ## Project Aim / Goal / Pillars
-The project Goal is to create a homage to the classic Brick Breaker. We wanted to maintain the most iconic elements, with some twists and different elements. With that, we create a familiar but still new experience for players.
+The project Goal is to create a homage to the classic Brick Breaker. We wanted to maintain the most iconic elements, with some twists and different elements. With that, we aim to create a familiar but still new experience for players.
 
 * Pillars "Add a description to each pillar"
   - Old but New
