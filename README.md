@@ -23,7 +23,7 @@ The game's objective is to eliminate all of the BRICKS at the top of the screen 
 ## Process
 ## Journey
 ## Case Study Video
-[![]()](https://www.youtube.com/watch?v=G7rzMntNpz4 "Click to play on Youtube.com")
+[![](http://i3.ytimg.com/vi/G7rzMntNpz4/hqdefault.jpg)](https://www.youtube.com/watch?v=G7rzMntNpz4 "Click to play on Youtube.com")
 ## Roadmap / Beyond
 # optionals:
 ## Known Issues
