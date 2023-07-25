@@ -4,6 +4,8 @@
 ![alt text](https://github.com/VFS-VRAR/BrickBreaker/blob/main/BrickBreaker.gif)
 </p>
 
+<p align="center">A farming + cooking game I am creating for my personal project on Unity 2020.2.1f1.</p>
+
 # Summary
 # Project Aim / Goal / Pillars
 # Features
