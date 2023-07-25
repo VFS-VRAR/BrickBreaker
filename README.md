@@ -33,8 +33,9 @@ Project Goal is create a homage to the classic Brick Breaker. We wanted to maint
 
 ## Journey
 
-## Case Study Video
-Example Video
+## Case Study Video 
+> Example Video
+
 [![](http://i3.ytimg.com/vi/G7rzMntNpz4/hqdefault.jpg)](https://www.youtube.com/watch?v=G7rzMntNpz4 "Click to play on Youtube.com")
 ## Roadmap / Beyond
 
