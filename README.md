@@ -5,12 +5,12 @@
 <p align="center">
 
 ## Summary
-The game's objective is to eliminate all of the BRICKS at the top of the screen by hitting them with the BALL. But, if the ball hits the bottom GAME OVER, the player loses and the game ends! Face new challenges as progress through the game, unlocking new levels, and new power-ups.
+The game's objective is to eliminate all of the BRICKS at the top of the screen by hitting them with the BALL. But, if the ball hits the bottom GAME OVER, the player loses, and the game ends! Face new challenges as progress through the game, unlocking new levels, and new power-ups.
 
 ## Project Aim / Goal / Pillars
-Project Goal is create a homage to the classic Brick Breaker. We wanted to maintaim the most iconic elements, with some twists and different elements. With that we create a familier but still new experience for players.
+The project Goal is to create a homage to the classic Brick Breaker. We wanted to maintain the most iconic elements, with some twists and different elements. With that, we create a familiar but still new experience for players.
 
-* Pillars "Add description to each pillar"
+* Pillars "Add a description to each pillar"
   - Old but New
   - Simple controls, funny interactions 
   - Quick Reflexes
@@ -21,7 +21,7 @@ Project Goal is create a homage to the classic Brick Breaker. We wanted to maint
     - [x] Special types: Bomb bricks, Power-up bricks
           
 * UI
-    - [x] Display number remaining lives
+    - [x] Display the number remaining lives
     - [x] Display current score
           
 ## Controls
@@ -32,7 +32,7 @@ Project Goal is create a homage to the classic Brick Breaker. We wanted to maint
 Add images and descriptions of how the project evolved over time
 
 ## Journey
-Talk about your jorney during development. The problems/adversities that happened, and how did you manage to solve/adapt to it
+Talk about your journey during development. The problems/adversities that happened, and how did you manage to solve/adapt to it
 
 
 ## Case Study Video 
@@ -46,7 +46,7 @@ Talk about your jorney during development. The problems/adversities that happene
     - [ ] New special bricks: Magma bricks, Frozen Bricks
           
 * Levels
-    - [ ] Create new levels with special properties and using new bricks
+    - [ ] Create new levels with special properties and use new bricks
           
 # optionals:
 
