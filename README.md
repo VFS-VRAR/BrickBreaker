@@ -29,9 +29,11 @@ Project Goal is create a homage to the classic Brick Breaker. We wanted to maint
 * **E**: use an Item
 * **P**: pause game
 
-## Process "Add images and descriptions of how the project evolved over time"
+## Process 
+Add images and descriptions of how the project evolved over time
 
 ## Journey
+Talk about your jorney during development. The problems/adversities that happened, and how did you manage to solve/adapt to it
 
 ## Case Study Video 
 > Example Video
