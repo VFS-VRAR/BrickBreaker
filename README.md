@@ -1,8 +1,6 @@
 # BrickBreakerPhysics
 
-<p align="center">
 ![alt text](https://github.com/VFS-VRAR/BrickBreaker/blob/main/BrickBreaker.gif)
-<p align="center">
 
 # Summary
 # Project Aim / Goal / Pillars
